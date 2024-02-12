@@ -1,0 +1,13 @@
+Creativity Avenue
+
+List of Steps:
+
+HomePage-Art and Artist details
+
+Categories
+
+Publish Your Own Art(form)-Name,Email,Mobile No,What they fell about art,Experience,Location,File to attach,Detail on art.
+
+Custom Art(form)-Name,Email,Mobile No,What they fell about art,location,prompt,reference.
+
+Contact Us
